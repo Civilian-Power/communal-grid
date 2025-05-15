@@ -14,7 +14,7 @@ Imagine if your home-/business-level management layer (a Hub, like your Alexa, G
 * know _which_ of your existing devices are enrolled in which VPP programs and **communicate real-time credits/payments**
 * identity **what _new_ devices might best work with and support your existing** home/business infrastructure to add more VPP-capable connections.
 
-<img alt="Example of API in use in smart home hubs" src="./overview.svg"  style="border: none" /> 
+<img alt="Example of API in use in smart home hubs" src="./site/assets/overview.svg"  style="border: none" /> 
 
 ### API
 **Not yet available.** Once a reasonable corpus of devices, hubs, and VPPs are documented, an API will be made available for Hubs to query for:
