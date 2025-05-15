@@ -1,5 +1,10 @@
 # Communal Grid
-## _An API service of connected home/business energy-making/saving devices & the virtual power plants with which they can connect (powered by a [Homebrew-style](https://brew.sh/) B2B(2C) catalog)_
+## _Connecting home & business owners' energy-making/saving devices & the virtual power plants with which they can connect_
+
+1. Consumers/businesses: earn money with devices you already have
+2. VPPs: quickly onboard highly-qualified leads
+3. Smart hubs: increase the value & stickiness of your 'home dashboard' app
+4. Grid: dramatically expand capacity without new Transmission & Distribution lines
 
 **Problem statement:** Understanding whether any of your existing home or business' devices can connect with money-returning [Virtual Power Plant (VPP)](https://rmi.org/clean-energy-101-virtual-power-plants/) services, much less which _potential_ devices could work in your existing setup _and_ earn you money is a maddeningly complex, regionally different, byzantine process that is not conducive to _expediting humanity’s move to clean all-electric power & a grid that can support that sizable shift._
 
