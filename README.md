@@ -1,10 +1,10 @@
 # Communal Grid
 ## _Connecting home & business owners' energy-making/saving devices & the virtual power plants with which they can connect_
 
-1. Consumers/businesses: earn money with devices you already have
-2. VPPs: quickly onboard highly-qualified leads
-3. Smart hubs: increase the value & stickiness of your 'home dashboard' app
-4. Grid: dramatically expand capacity without new Transmission & Distribution lines
+1. **Consumers/businesses**: _earn money with devices you already have_
+2. **VPPs**: _quickly onboard highly-qualified leads_
+3. **Smart hubs**: _increase the value & stickiness of your 'home dashboard' app_
+4. **Grid**: _dramatically expand capacity without new Transmission & Distribution lines_
 
 **Problem statement:** Understanding whether any of your existing home or business' devices can connect with money-returning [Virtual Power Plant (VPP)](https://rmi.org/clean-energy-101-virtual-power-plants/) services, much less which _potential_ devices could work in your existing setup _and_ earn you money is a maddeningly complex, regionally different, byzantine process that is not conducive to _expediting humanity’s move to clean all-electric power & a grid that can support that sizable shift._
 
