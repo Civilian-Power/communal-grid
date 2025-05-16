@@ -1,0 +1,15 @@
+{
+  "company":"Olivine, Inc.",
+  "programName":"ClimateResponse VPP",
+  "url":"https://www.climateresponse.com/",
+  "markets":["pge","sce","sdge"],
+  "supportedDevices": {
+    "outlets":["tp-link-kasa-kp125m"],
+    "water-heaters":["",""],
+    "thermostats":["",""]
+  },
+  "contact": {
+    "phone": "1-866-306-0829",
+    "email": "ask@climateresponse.com"
+  }
+}
