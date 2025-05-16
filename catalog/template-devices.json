@@ -1,0 +1,45 @@
+// filename should be in form of manufacturer-brand-productName-modelNumber-revNumber.json
+// all // comments must be removed for JSON to validate
+
+{
+  "manufacturer":"", 
+  "brand":"", 
+  "productName":"", 
+  "modelNumber":"",
+  "revNumber":"",
+  "firmware": {
+    "download":"", // URL to firmware download
+    "latestVersion":"" // string; version such as 10.1.2 au-56g
+  }
+  "power": {
+    "input":"", // in Watts
+    "battery":"", // default null; otherwise battery model if replaceable such as 2xAA or 1xCR1032 OR battery size if rechargeable
+    "powerOverEthernet":"", // poe, poe+, poe++
+  }
+  "connectivity": {
+    "wifi": {
+      "version":"", // string; version such as a/g/n/ax
+      "internalSSID":"", // string; default null; otherwise string with SSID prefix such as "KASA125M-"
+    }
+    "bluetooth":"", // string; version such as 5.1
+    "thread":true, // true or false
+    "lora":"",
+    "zigbee":"", 
+    "z-wave":"", 
+    "matter": {
+      "type":"", // string; controller,border-router, 
+      "version":"" // string; version such as spec release 1.3
+    }
+    "ifttt":"", // URL to IFTTT service
+    "homeAssistant":"", // URL to Home Assistant integration
+    "homeGoogle":"", // URL to Google Home integration
+    "homeAmazon":"", // URL to Alexa integration
+    "homeKit":"", // URL to Apple Home integration
+    "cellular":"" // default null; otherwise which cellular radio
+  }
+    "securityCertifications": {
+      "U.S. Cyber Trust Mark":"", // URL to certification - more info at https://www.fcc.gov/CyberTrustMark
+      "PSA Certified":"" // URL to certification - more info at https://www.psacertified.org/
+  }
+    "vpp": ["", "", ""] // Array of supported VPP names
+}
