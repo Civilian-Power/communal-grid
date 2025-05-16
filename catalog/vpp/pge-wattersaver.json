@@ -1,0 +1,9 @@
+{
+  "company":"Pacific Gas & Electric",
+  "programName":"WatterSaver",
+  "url":"https://wattersaver.virtualpeaker.io/",
+  "markets":["pge"],
+  "supportedDevices": {
+    "water-heaters":["rheem-proterra-proph65-t2-rh375-s"]
+  }
+}
