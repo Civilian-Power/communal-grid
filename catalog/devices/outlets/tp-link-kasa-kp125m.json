@@ -1,0 +1,50 @@
+{
+  "manufacturer":"TP-Link", 
+  "brand":"Kasa", 
+  "productName":"Kasa Smart Wi-Fi Plug Slim with Energy Monitoring", 
+  "modelNumber":"KP125M",
+  "revNumber":"1.0",
+  "productURL":"https://www.tp-link.com/us/home-networking/smart-plug/kp125m/",
+  "firmware": {
+    "download":"https://www.tp-link.com/us/support/download/kp125m/v1/#Firmware-Release-Notes",
+    "latestVersion":"1.2.3 build 240624 rel.154806"
+  }
+  "power": {
+    "monitor":true,
+    "input":"", // in Watts
+    "outputMaxAmps":"15",
+    "outputMaxWatts":"1800",
+    "battery":null,
+    "powerOverEthernet":null
+  }
+  "connectivity": {
+    "radios": {
+      "cellular":null,
+      "wifi": {
+        "version": ["b","g","n"]
+        "band":"2.4 GHz"
+        "internalSSID":true
+      }
+      "bluetooth":"", // string; version such as 5.1
+      "thread":true, // true or false
+      "lora":"",
+      "zigbee":"", 
+      "z-wave":"", 
+      "matter": {
+        "type":"", // string; controller,border-router, 
+        "version":"" // string; version such as spec release 1.3
+      }
+    }
+    "ifttt":"https://ifttt.com/kasa", 
+    "homeAssistant":"https://www.home-assistant.io/integrations/tplink/", 
+    "homeGoogle":"https://www.tp-link.com/us/landing/gss/", 
+    "homeAmazon":"https://www.amazon.com/TP-LINK-Kasa/dp/B01EIQX6Y8", 
+    "homeKit":"https://www.tp-link.com/us/support/faq/3240/",
+    "homeSmartthings":"https://www.tp-link.com/us/support/faq/3158/"
+  }
+    "securityCertifications": {
+      "U.S. Cyber Trust Mark":false, 
+      "PSA Certified":false 
+  }
+    "vpp": ["Renew Home OhmConnect"]
+}
