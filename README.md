@@ -31,9 +31,9 @@ Imagine if your home-/business-level management layer (a Hub, like your Alexa, G
 ### Examples
 
 The following are examples of the community-editable configuration files that would provide the data to the API for this project:
-* [Kasa Smart Wi-Fi Plug Slim with Energy Monitoring KP125M](https://github.com/mlaaker/derdirectory/blob/main/devices/outlets/tp-link-kasa-kp125m.json) _(See [all devices…](https://github.com/mlaaker/derdirectory/tree/main/devices))_
-* [Renew Home OhmConnect](https://github.com/mlaaker/derdirectory/blob/main/vpp/renew-home-ohmconnect.json) _(See [all VPPs…](https://github.com/mlaaker/derdirectory/tree/main/vpp))_
-* [Home Assistant Yellow](https://github.com/mlaaker/derdirectory/blob/main/devices/hubs/home-assistant-yellow.json) _(See [all Hubs…](https://github.com/mlaaker/derdirectory/tree/main/devices/hubs))_
+* [Kasa Smart Wi-Fi Plug Slim with Energy Monitoring KP125M](https://github.com/Civilian-Power/communal-grid/blob/main/devices/outlets/tp-link-kasa-kp125m.json) _(See [all devices…](https://github.com/Civilian-Power/communal-grid/tree/main/devices))_
+* [Renew Home OhmConnect](https://github.com/Civilian-Power/communal-grid/blob/main/vpp/renew-home-ohmconnect.json) _(See [all VPPs…](https://github.com/Civilian-Power/communal-grid/tree/main/vpp))_
+* [Home Assistant Yellow](https://github.com/Civilian-Power/communal-grid/blob/main/devices/hubs/home-assistant-yellow.json) _(See [all Hubs…](https://github.com/Civilian-Power/communal-grid/tree/main/devices/hubs))_
 
 
 
